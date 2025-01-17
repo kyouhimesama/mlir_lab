@@ -1,4 +1,4 @@
 {
   "name": "MLIR Tutorial",
-  "image": "ftynse/mlir-tutorial:latest",
+  "image": "ghcr.io/syuparn/mlir-hello:main",
 }
